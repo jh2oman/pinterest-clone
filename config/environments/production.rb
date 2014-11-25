@@ -82,7 +82,7 @@ Pinteresting::Application.configure do
   #set to actual host
   config.action_mailer.default_url_options = { host: 'jh2oman-pinteresting.com' }
 
-#required for AWS sdk
+#sets paperclip to upload things to amazon sdk
 config.paperclip_defaults = {
   :storage => :s3,
   :s3_credentials => {
