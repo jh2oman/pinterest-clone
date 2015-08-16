@@ -4,7 +4,7 @@ Pinteresting::Application.routes.draw do
   devise_for :users
   root "pins#index"
   get "about" => "pages#about" #creates about_path
-  
+  get "google1998d9ca7b1851e4" => "pages#google1998d9ca7b1851e4"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
