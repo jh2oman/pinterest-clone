@@ -1,5 +1,5 @@
-# One Month Rails
+# Ruby on Rails Pinteresting
 
-this is the pinteresting sample application for One month Rails
+This application was built using Ruby on Rails and was one of my first introductions to web app development.
 
 by Jacob Waterman
